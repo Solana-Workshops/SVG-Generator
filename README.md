@@ -3,7 +3,7 @@
 ## 🎬 Recorded Sessions
 | Link | Instructor | Event |
 | ---- | ---------- | ----- |
-| [<img src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/.docs/youtube-icon.png" alt="youtube" width="20" align="center"/> Recording](https://github.com/solana-developers) | Joe Caulfield | N/A |
+| [<img src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/.docs/youtube-icon.png" alt="youtube" width="20" align="center"/> Recording](https://youtu.be/eajOS-_0PCk) | Joe Caulfield | N/A |
 
 ## 📗 Learn
 
@@ -12,8 +12,16 @@ To learn more about how this dApp works see [How it Works](#how-it-works) below.
 You can find the on-chain program in `svg-generator/` and the frontend application that will interface with our program can be found in `app/`.   
    
 Built using `npx create-solana-dapp -f next -p native`.   
+
+### About the Solana dApp Scaffold
+This workshop, like many others in the Solana Workshops collection, is built using the dApp Scaffold. This scaffold provides a huge handful of out-of-the-box NextJS configs and functionality to get up & running fast with building a dApp on Solana.   
    
-**You can find more Solana development resources in the `README.md` at the root of this repository.**
+Amongst other things, this scaffold gives you:
+* Wallet connection support for popular wallets
+* Airdrop functionality & components
+* User SOL balance store
+* Navbar & Footer
+* Basic NextJS file structure layout
 
 ### How to Build & Run
 
