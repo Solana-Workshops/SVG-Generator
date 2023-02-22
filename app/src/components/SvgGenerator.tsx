@@ -29,6 +29,7 @@ export const SvgGenerator: FC = () => {
         const programId = new PublicKey(programIdString);
 
         const svgAccount = Keypair.generate();
+        console.log(`SVG Pubkey: ${svgAccount.publicKey}`)
         
         const ix = new TransactionInstruction({
             programId,

@@ -3,7 +3,7 @@
 ## 🎬 Recorded Sessions
 | Link | Instructor | Event |
 | ---- | ---------- | ----- |
-| [<img src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/.docs/youtube-icon.png" alt="youtube" width="20" align="center"/> Recording](https://youtu.be/eajOS-_0PCk) | Joe Caulfield | N/A |
+| [<img src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/.docs/youtube-icon.png" alt="youtube" width="20" align="center"/> Recording](https://youtu.be/bf5wJcuMlaA) | Joe Caulfield | N/A |
 
 ## 📗 Learn
 
@@ -54,5 +54,5 @@ Our frontend will then be able to render this account's data with a simple read.
 
 ### Active Program ID:
 ```shell
-FQfryewWanut6Am7n17HnM6QftRnRKW7DvjYHNtarDWb
+835PwymmewwoZLHVSaxbusncWa2G5TUotcW123oA9KMS
 ```
