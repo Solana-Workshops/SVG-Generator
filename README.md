@@ -5,6 +5,11 @@
 | ---- | ---------- | ----- |
 | [<img src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/.docs/youtube-icon.png" alt="youtube" width="20" align="center"/> Recording](https://youtu.be/bf5wJcuMlaA) | Joe Caulfield | N/A |
 
+## ☄️ Open in Solana Playground IDE
+| Program | Link |
+| -------------------- | --------------------------------------- |
+| SVG Generator | [ ![program](https://ik.imagekit.io/mkpjlhtny/solpg_button_zWM8WlPKs.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1662621556513)](  https://beta.solpg.io/github/https://github.com/Solana-Workshops/svg-generator/tree/main/svg-generator) |
+
 ## 📗 Learn
 
 To learn more about how this dApp works see [How it Works](#how-it-works) below.   
